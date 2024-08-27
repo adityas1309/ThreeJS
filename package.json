@@ -1,0 +1,17 @@
+{
+  "name": "exer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "three": "^0.167.1",
+    "vite": "^5.4.2"
+  }
+}
